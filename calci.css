@@ -1,0 +1,35 @@
+@charset "ISO-8859-1";
+
+#h{
+	color:white;
+	border: 5px solid #c0c0c0;
+    border-radius: 50px;
+    text-align: center;
+    padding: 10px;
+    background-color: #aa3351 ;
+}
+body{
+	 
+    height: 600px; 
+    width: 1150px;
+    text-align: center;
+    line-height: 50px;
+    background-image: url("pngtree-top-view-photography-of-business-office-desktop-with-calculator-on-wood-image_750332.jpg");
+    font-size: xx-large;
+    font-weight: bolder;
+    color: #8cff1a;
+    font-style: oblique;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    background-size: cover;
+ }
+ footer{
+    border:5px solid white;
+    background-color: #8cff1a;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: #0000ff;
+    font-style: oblique;
+    margin-top: 200px;
+ }
